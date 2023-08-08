@@ -1,0 +1,20 @@
+import React from 'react'
+
+function About() {
+  return (
+    <div className='about'>
+      <h1>About Us</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti aperiam quis quod, aspernatur cumque perferendis eius, sit dolor quos repudiandae rerum impedit voluptatum esse? Labore nam quod dolorem ex ea.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti aperiam quis quod, aspernatur cumque perferendis eius, sit dolor quos repudiandae rerum impedit voluptatum esse? Labore nam quod dolorem ex ea.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti aperiam quis quod, aspernatur cumque perferendis eius, sit dolor quos repudiandae rerum impedit voluptatum esse? Labore nam quod dolorem ex ea.
+      </p>
+    </div>
+  )
+}
+
+export default About
